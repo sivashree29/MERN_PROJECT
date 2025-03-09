@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-     <img src="/image2.jpg" class="img-fluid w-100 pt-1" alt="..."/ >
+     <img src="LOGO3.jpg" class="img-fluid w-100 pt-1" alt="..."/ >
      <div class="row row-cols-1 row-cols-md-2 g-4 m-2">
   <div class="col">
     <div class="card">
